@@ -1,4 +1,4 @@
-# harktech-co-uk
+# Hark Tech
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,129 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-harktech-co-uk is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://harktech.co.uk/
+Hark Tech is a UK‑based workshop offering custom 3D printing and mail‑in electronics repair services. Customers can upload STL, 3MF or STEP files to receive instant pricing, choose from a range of materials, and have printed parts shipped. The company also repairs laptops, consoles and other electronics via a mail‑in service, providing diagnostics, soldering and part replacement with tracked delivery across the UK.
+
+**Areas:** 3D Printing · Electronics Repair · Mail-in Service · UK · Custom Manufacturing
+
+## Hark Tech on APIs.io
+
+Everything profiled for Hark Tech is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/harktech-co-uk/](https://apis.io/providers/harktech-co-uk/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [Hark Tech Agent API](https://apis.io/apis/harktech-co-uk/harktech-co-uk-agent-api/) — The Agent API from Hark Tech — 1 operation(s) for agent.
+- [Hark Tech Models API](https://apis.io/apis/harktech-co-uk/harktech-co-uk-models-api/) — The Models API from Hark Tech — 1 operation(s) for models.
+- [Hark Tech Quote API](https://apis.io/apis/harktech-co-uk/harktech-co-uk-quote-api/) — The Quote API from Hark Tech — 1 operation(s) for quote.
+- [Hark Tech Repair Service Info API](https://apis.io/apis/harktech-co-uk/harktech-co-uk-repair-service-info-api/) — The Repair Service Info API from Hark Tech — 1 operation(s) for repair service info.
+- [Hark Tech Repair Services API](https://apis.io/apis/harktech-co-uk/harktech-co-uk-repair-services-api/) — The Repair Services API from Hark Tech — 1 operation(s) for repair services.
+- [Hark Tech Service Info API](https://apis.io/apis/harktech-co-uk/harktech-co-uk-service-info-api/) — The Service Info API from Hark Tech — 1 operation(s) for service info.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Hark Tech Agentic Access](https://apis.io/agentic-access/harktech-co-uk/harktech-co-uk-agentic-access/)
+
+#### JSON Schema (2)
+
+The data models the API reads and writes.
+
+- [Quote](https://apis.io/schemas/harktech-co-uk/harktech-co-uk-quote/)
+- [RepairServices](https://apis.io/schemas/harktech-co-uk/harktech-co-uk-repair-services/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Harktech Co Uk Context](https://apis.io/jsonld/harktech-co-uk/harktech-co-uk-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Hark Tech API Rules](https://apis.io/rules/harktech-co-uk/harktech-co-uk-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Hark Tech Domain Security](https://apis.io/security/harktech-co-uk/harktech-co-uk-domain-security/)
+- [Hark Tech Vulnerability Disclosure](https://apis.io/security/harktech-co-uk/harktech-co-uk-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Hark Tech Plans Pricing](https://apis.io/plans/harktech-co-uk/harktech-co-uk-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://harktech.co.uk/)
+- [Documentation](https://harktech.co.uk/about.html)
+- [Pricing](https://harktech.co.uk/pricing.html)
+- [Support](https://harktech.co.uk/help)
+- [Security](https://harktech.co.uk/privacy.html)
+- [Terms of service](https://harktech.co.uk/terms.html)
+- [Privacy policy](https://harktech.co.uk/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 47.9** — developing · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 51.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 20.7 |
+| Access clarity | 60.0 |
+
+**Agent readiness 25.3** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/harktech-co-uk/](https://apis.io/providers/harktech-co-uk/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Hark Tech: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/harktech-co-uk/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
